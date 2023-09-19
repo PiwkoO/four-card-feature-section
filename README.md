@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution on frontendmentor.io]()
-- [Live preview]()
+- [Solution on frontendmentor.io](https://www.frontendmentor.io/solutions/four-card-feature-section-ZJGuLctJNp)
+- [Live preview](https://piwkoo.github.io/four-card-feature-section/)
 
 ## My process
 
